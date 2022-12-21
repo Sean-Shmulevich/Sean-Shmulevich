@@ -8,10 +8,19 @@
 
 <br>
 <p align="center">
-  Hi, I'm Sean Shmulevich, Full Stack Web Developer 📟  Student 👨‍💻  Skateboarder 🛹 Park Skiier 🎿
+  Hi, I'm Sean Shmulevich
+  <br>
+  Full Stack Web Developer 📟 
+  <br>
+  Student 👨‍💻
+  <br>
+  Skateboarder 🛹 
+  <br>
+  Park Skiier 🎿
   <br>
   <br>
   🎓 University of Pittsburgh</a>
+  <br>
   <br>
   💻 I love to learn and solve new problems while writing beautiful code and building awesome apps.
 </p>
@@ -39,7 +48,7 @@
 <hr>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Sean-Shmulevich&bg_color=fffff0&color=708090&line=24292e&point=24292e&area=true&hide_border=true" />
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Sean-Shmulevich&theme=react-dark" />
 </div>
 
   <hr>
