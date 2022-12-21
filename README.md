@@ -1,5 +1,6 @@
 <div align="center">
   Visitors
+  
   ![Visitor Count](https://profile-counter.glitch.me/{Sean-Shmulevich}/count.svg)
 </div>
 
