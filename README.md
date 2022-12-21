@@ -24,7 +24,6 @@
   <br>
   I love to learn and solve new problems while writing beautiful code and building apps that will help people and push humanity forward. I've never seen programming as work. For me programming is an amazing thing that enables me to apply my creativity in spectacular ways. Just like skateboarding sometimes I fall on my face but then I get back up and try 100 more times and its not always easy but nothing of value is. Every problem I solve aggregates allowing me to solve more problems and level up my skills while im hitting combos on neovim, squashing all the bugs. 
 </p>
-====>
 <h2 align="center">🔥 Languages-Frameworks-Tools 🔥</h2>
 <br>
 <p align="center">
