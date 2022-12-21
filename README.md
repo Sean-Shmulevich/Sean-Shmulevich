@@ -1,4 +1,6 @@
-![Visitor Count](https://profile-counter.glitch.me/{Sean-Shmulevich}/count.svg)
+<div align="center">
+  Visitors![Visitor Count](https://profile-counter.glitch.me/{Sean-Shmulevich}/count.svg)
+</div>
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
