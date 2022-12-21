@@ -1,58 +1,48 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=KushalTanna24.KushalTanna24">
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Sean-Shmulevich.Sean-Shmulevich">
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+There!+👋;+Myself+Kushal+Tanna!;&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+There!+👋;+I'm+Sean!;&center=true&size=30">
   </a>
 </h1>
 
 <br>
 <p align="center">
-  Hi, I'm Kushal Tanna, Web Developer/Coder 🥷,  Learner 👨‍💻 &  gamer 🦸‍♂️ from India 🇮🇳
+  Hi, I'm Sean Shmulevich, Full Stack Web Developer 📟,  Student 👨‍💻 &  Skateboarder 🛹 Park Skiier 🎿
   <br>
   <br>
-  🎓 Completed my masters degree from <a href="https://www.daiict.ac.in/"> DAIICT.</a>
+  🎓 University of Pittsburgh</a>
   <br>
-  💻 I love to learn new technologies and frameworks.
-  <br>
+  💻 I love to learn and write beautiful code to build awesome apps.
+<!--   <br>
   🧑‍💼 I’m currently working as MERN stack developer at <a href="https://www.codezeros.com/"> CODEZEROS </a>
-  <br>
+  <br> -->
 </p>
 
-<div align="center"> 
+<!-- <div align="center"> 
   <a href="https://www.youtube.com/channel/UCUrghtGYhkas_MoGzgSKaQA?app=desktop" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
  <a href="https://discord.gg/wagxzStdcR" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:kushaltanna01@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://in.linkedin.com/in/kushal-tanna-870ba7215" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-</div>
+</div> -->
 
 <hr>
 <h2 align="center">🔥 Languages-Frameworks-Tools 🔥</h2>
 <br>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,react,nodejs,github,python,vue,javascript,css,wordpress,pr,express,styledcomponents,nextjs,graphql" /><br>
-    <img src="https://skillicons.dev/icons?i=angular,bootstrap,mongodb,mysql,django,html,redux,blender,ae,linux,vscode,heroku,figma" />
+    <img src="https://skillicons.dev/icons?i=git,react,nodejs,github,python,vue,javascript,css,wordpress" /><br>
+    <img src="https://skillicons.dev/icons?i=flutter,docker,svelte,mysql,django,html,linux,vscode,vim" />
 
   </a>
 </p>
 <br>
-<h4>Learning</h4>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=go,solidity,aws,kubernetes,googlecloud,tensorflow,flutter,electron,docker" />
-  </a>
-</p>
+
 <hr>
 
 <div align="center">
-  <h2>🐍 Snake eating my contribution 🐍</h2>
-  <br>
-  <img alt="snake eating my contribution" src="https://github.com/KushalTanna24/KushalTanna24/blob/output/github-contribution-grid-snake.svg">
-  <br>
-  <br>
-  <br>
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=ashutosh00710&bg_color=fffff0&color=708090&line=24292e&point=24292e&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 </div>
 
   <hr>
