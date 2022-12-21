@@ -3,8 +3,6 @@
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+There!+👋;+I'm+Sean!;&center=true&size=30">
   </a>
 </h1>
-
-<br>
 <p align="center">
   Hi, I'm Sean Shmulevich
   <br>
@@ -16,7 +14,7 @@
   <br>
   Park Skiier 🎿
   <br>
-  Mechanical Keyboard enthusiast and creator ⌨️
+  Mechanical Keyboard enthusiast and builder ⌨️
   <br>
   13 Seconds 3x3 Rubiks Cube Personal Best. 
   <br>
@@ -24,7 +22,7 @@
   🎓 University of Pittsburgh</a>
   <br>
   <br>
-  💻 I love to learn and solve new problems while writing beautiful code and building awesome apps.
+  I love to learn and solve new problems while writing beautiful code and building apps that will help people and push humanity forward. I've never seen programming as work. For me programming is an amazing thing that enables me to apply my creativity in spectacular ways. Just like skateboarding sometimes I fall on my face but then I get back up and try 100 more times and its not always easy but nothing of value is. Every problem I solve aggregates allowing me to solve more problems and level up my skills while im hitting combos on my neovim editor, squashing all the bugs. 
 </p>
 
 <hr>
