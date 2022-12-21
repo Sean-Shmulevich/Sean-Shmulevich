@@ -16,6 +16,10 @@
   <br>
   Park Skiier 🎿
   <br>
+  Mechanical Keyboard enthusiast and creator ⌨️
+  <br>
+  13 Seconds 3x3 Rubiks Cube Personal Best. 
+  <br>
   <br>
   🎓 University of Pittsburgh</a>
   <br>
