@@ -8,15 +8,12 @@
 
 <br>
 <p align="center">
-  Hi, I'm Sean Shmulevich, Full Stack Web Developer 📟,  Student 👨‍💻 &  Skateboarder 🛹 Park Skiier 🎿
+  Hi, I'm Sean Shmulevich, Full Stack Web Developer 📟  Student 👨‍💻  Skateboarder 🛹 Park Skiier 🎿
   <br>
   <br>
   🎓 University of Pittsburgh</a>
   <br>
-  💻 I love to learn and write beautiful code to build awesome apps.
-<!--   <br>
-  🧑‍💼 I’m currently working as MERN stack developer at <a href="https://www.codezeros.com/"> CODEZEROS </a>
-  <br> -->
+  💻 I love to learn and solve new problems while writing beautiful code and building awesome apps.
 </p>
 
 <!-- <div align="center"> 
@@ -42,7 +39,7 @@
 <hr>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=ashutosh00710&bg_color=fffff0&color=708090&line=24292e&point=24292e&area=true&hide_border=true" />
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Sean-Shmulevich&bg_color=fffff0&color=708090&line=24292e&point=24292e&area=true&hide_border=true" />
 </div>
 
   <hr>
@@ -64,10 +61,4 @@
       <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sean-Shmulevich&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
     </a>
   </div>
-  <br>
-  <br>
-  <br>
-  <img src="https://activity-graph.herokuapp.com/graph?username=Sean-Shmulevich&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 </p>
-
-<hr>
