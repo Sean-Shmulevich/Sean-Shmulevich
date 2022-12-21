@@ -1,4 +1,4 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Sean-Shmulevich.Sean-Shmulevich">
+![Visitor Count](https://profile-counter.glitch.me/{Sean-Shmulevich}/count.svg)
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
