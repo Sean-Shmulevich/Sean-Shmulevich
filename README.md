@@ -68,15 +68,3 @@
   
   ![Visitor Count](https://profile-counter.glitch.me/{Sean-Shmulevich}/count.svg)
 </div>
-
-<style>
-  @font-face {
-  font-family: 'Font Name';
-  src: url('[/fonts/font-name.ttf](https://cdn.jsdelivr.net/gh/JetBrains/JetBrainsMono/web/woff2/JetBrainsMono-Regular.woff2)') format('truetype');
-  font-weight: normal;
-  font-style: normal;
-}
-body {
-  font-family: 'Font Name', sans-serif;
-}
-</style>
