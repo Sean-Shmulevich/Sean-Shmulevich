@@ -1,10 +1,3 @@
-<div align="center">
-  Visitors
-  <br>
-  
-  ![Visitor Count](https://profile-counter.glitch.me/{Sean-Shmulevich}/count.svg)
-</div>
-
 <h1 align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+There!+👋;+I'm+Sean!;&center=true&size=30">
@@ -68,3 +61,10 @@
     </a>
   </div>
 </p>
+
+<div align="center">
+  Visitors
+  <br>
+  
+  ![Visitor Count](https://profile-counter.glitch.me/{Sean-Shmulevich}/count.svg)
+</div>
