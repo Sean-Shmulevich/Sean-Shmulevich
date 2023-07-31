@@ -42,12 +42,6 @@
 
 <hr>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Sean-Shmulevich&theme=react-dark" />
-</div>
-
-  <hr>
-
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <p align=center>
