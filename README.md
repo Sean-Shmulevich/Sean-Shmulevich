@@ -8,11 +8,9 @@
   <br>
   Full Stack Web Developer 📟 
   <br>
-  Student 👨‍💻
-  <br>
   Skateboarder 🛹 
   <br>
-  Park Skiier 🎿
+  Freestyle Ski 🎿
   <br>
   Mechanical Keyboard enthusiast and builder ⌨️
   <br>
