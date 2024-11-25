@@ -12,7 +12,7 @@
   <br>
   Freestyle Ski 🎿
   <br>
-  Mechanical Keyboard enthusiast and builder ⌨️
+  Mechanical Keyboard enthusiast ⌨️
   <br>
   13 Seconds 3x3 Rubiks Cube Personal Best. 
   <br>
