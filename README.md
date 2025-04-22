@@ -14,7 +14,7 @@
   <br>
   Mechanical Keyboard enthusiast ⌨️
   <br>
-  13 Seconds 3x3 Rubiks Cube Personal Best. 
+  9 Seconds 3x3 Rubiks Cube Personal Best. 
   <br>
   <br>
   🎓 University of Pittsburgh</a>
