@@ -14,7 +14,7 @@
   <br>
   Mechanical Keyboard enthusiast ⌨️
   <br>
-  9 Seconds 3x3 Rubiks Cube Personal Best. 
+  9 Seconds 3x3 Rubik's Cube Personal Best. 
   <br>
   <br>
   🎓 University of Pittsburgh</a>
@@ -38,10 +38,3 @@
 <br>
 
 <hr>
-
-<div align="center">
-  Visitors
-  <br>
-  
-  ![Visitor Count](https://profile-counter.glitch.me/{Sean-Shmulevich}/count.svg)
-</div>
