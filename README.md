@@ -17,7 +17,6 @@
   9 Seconds 3x3 Rubik's Cube Personal Best. 
   <br>
   <br>
-  🎓 University of Pittsburgh</a>
   <br>
   <br>
 </p>
